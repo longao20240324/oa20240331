@@ -7,3 +7,6 @@ oa项目运行在tomcat10服务器上，可以用tomcat8，但是就不是jakart
 使用idea运行
 
 在idea中导入oa项目本体，配置一下tomcat以及添加tomcat的jsp和servlet的jar包，在项目结构那里配置好就能运行了
+
+t_user表
+![image](https://github.com/longao20240324/oa20240331/assets/164730193/4bdf3ccc-07f7-469c-816b-d6382c460ecc)
